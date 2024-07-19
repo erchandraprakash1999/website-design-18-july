@@ -1,0 +1,9 @@
+.container {
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3px;
+  justify-content: center; */
+  background-color: grey;
+  height: 30rem;
+  /* backgroundColor: " rgb(245, 237, 237)", */
+}
