@@ -1,12 +1,14 @@
 import './App.css';
 import Navbar from './Navbar.jsx';
-import Home from './Home.jsx';
+
+import Cards from './Cards.jsx';
+
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <Home />
+      <Cards />
     </div>
   );
 }

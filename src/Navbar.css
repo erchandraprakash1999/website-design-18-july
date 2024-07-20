@@ -1,0 +1,34 @@
+.nav__icon {
+  padding-top: 0.29rem;
+  padding-right: 0.2rem;
+  color: #8c52ff;
+}
+.nav__selectdiv {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.nav__select {
+  width: fit-content;
+  height: 4vh;
+  border-radius: 0.2rem;
+  border-color: grey;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #8c52ff;
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.nav__select1 {
+  width: fit-content;
+  height: 4vh;
+  border-radius: 0.2rem;
+  border-color: grey;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #8c52ff;
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
