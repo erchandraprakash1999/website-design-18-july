@@ -160,17 +160,17 @@ function Cards() {
           <article className="cards__card">
             <div className="cards__div">
               <img className="cards__img" src={item.imageUrl} alt=""></img>
-              <h3 className="cards__price">
+              <h5 className="cards__price">
                 ${item.price}
                 <small>/month</small>
-              </h3>
+              </h5>
               <div className="cards__heart">
                 <BsSuitHeart className="card__icon" />
               </div>
               <div className="cards__quantity">
                 <small>{item.property}</small>
                 <div className="cards__title">
-                  <h3>{item.title}</h3>
+                  <h4>{item.title}</h4>
                 </div>
                 <div className="cards__location">
                   <small>{item.location}</small>
