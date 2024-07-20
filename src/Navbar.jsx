@@ -123,7 +123,7 @@ function Navbar() {
             ))}
           </Box>
 
-          <Box sx={{ flexGrow: 0 }}>
+          <Box sx={{ flexGrow: 0 }} className="button_container">
             <Button
               style={{
                 backgroundColor: "white",

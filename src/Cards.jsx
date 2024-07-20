@@ -17,7 +17,7 @@ function Cards() {
       noOfBeds: "3 beds",
       area: "5*7 m2",
       property: "Bunglow",
-      date: ["January", 4, 2022],
+      date: ["January", 4, 2024],
     },
     {
       imageUrl:
@@ -29,7 +29,7 @@ function Cards() {
       noOfBeds: "4 beds",
       area: "9*6 m2",
       property: "House",
-      date: ["February", 4, 2022],
+      date: ["February", 4, 2024],
     },
     {
       imageUrl:
@@ -41,7 +41,7 @@ function Cards() {
       noOfBeds: "2 beds",
       area: "4*3 m2",
       property: "Flat",
-      date: ["March", 31, 2022],
+      date: ["March", 31, 2024],
     },
     {
       imageUrl:
@@ -53,7 +53,7 @@ function Cards() {
       noOfBeds: "5 beds",
       area: "9*8 m2",
       property: "House",
-      date: ["April", 4, 2022],
+      date: ["April", 4, 2024],
     },
     {
       imageUrl:
@@ -65,7 +65,7 @@ function Cards() {
       noOfBeds: "6 beds",
       area: "12*15 m2",
       property: "Flat",
-      date: ["May", 8, 2022],
+      date: ["May", 8, 2024],
     },
     {
       imageUrl:
@@ -77,7 +77,7 @@ function Cards() {
       noOfBeds: "7 beds",
       area: "25*18 m2",
       property: "Bunglow",
-      date: ["June", 13, 2022],
+      date: ["June", 13, 202],
     },
     {
       imageUrl:
@@ -89,7 +89,7 @@ function Cards() {
       noOfBeds: "5 beds",
       area: "10*7 m2 ",
       property: "Flat",
-      date: ["July", 25, 2022],
+      date: ["July", 25, 2024],
     },
     {
       imageUrl:
@@ -101,7 +101,7 @@ function Cards() {
       noOfBeds: "4 beds",
       area: "11*9 m2 ",
       property: "House",
-      date: ["August", 10, 2022],
+      date: ["August", 10, 2024],
     },
     {
       imageUrl:
@@ -113,7 +113,7 @@ function Cards() {
       noOfBeds: "6 beds",
       area: "11*8 m2 ",
       property: "House",
-      date: ["September", 2, 2022],
+      date: ["September", 2, 2024],
     },
     {
       imageUrl:
@@ -125,7 +125,7 @@ function Cards() {
       noOfBeds: "7 beds",
       area: "13*8 m2 ",
       property: "Bunglow",
-      date: ["October", 18, 2022],
+      date: ["October", 18, 2024],
     },
     {
       imageUrl:
@@ -137,7 +137,7 @@ function Cards() {
       noOfBeds: "6 beds",
       area: "12*7 m2 ",
       property: "Bunglow",
-      date: ["November", 15, 2022],
+      date: ["November", 15, 2024],
     },
     {
       imageUrl:
@@ -149,7 +149,7 @@ function Cards() {
       noOfBeds: "4 beds",
       area: "10*5 m2 ",
       property: "House",
-      date: ["December", 16, 2022],
+      date: ["December", 16, 2024],
     },
   ];
   const [filterData, setFilterData] = useState(data);
